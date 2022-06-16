@@ -1,4 +1,4 @@
-# a_power_shell_script_that_anonymises_csv
+# a_PowerShell_script_that_anonymises_csv
 
 I mentioned at a conference that I can open source a powershell script that runs on restricted laptops
 
